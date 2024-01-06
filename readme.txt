@@ -1,6 +1,6 @@
 # Cac40 Stock Portfolio Analysis
 
-## Overview
+##verview
 This project, named "Cac40 Stock Portfolio Analysis," conducts a comprehensive analysis of a stock portfolio consisting of three major stocks listed in the CAC 40 index: BNP, MC, and TTE. The analysis involves various financial metrics and statistical techniques, including beta, time series analysis, portfolio value at risk, single stock value at risk, variance, correlation, and heatmap visualization.
 
 ## Data Sources
